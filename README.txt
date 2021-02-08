@@ -5,4 +5,5 @@ Install the necesary libraries
 Launch the file MeritOrder.py wih Python (3.7.2)
 
 Send a POST request with the JSON payload to localhost:8888/productionplan
-and the body of the response should contain the list of powerplants and their power output 
+and the body of the response should contain the list of powerplants and their power output
+(tested with Postman)
